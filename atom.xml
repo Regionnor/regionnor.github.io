@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Region-Blog</title>
+  <icon>http://www.393837.xyz/icon.png</icon>
+  
+  <link href="http://www.393837.xyz/atom.xml" rel="self"/>
+  
+  <link href="http://www.393837.xyz/"/>
+  <updated>2024-05-18T03:47:09.715Z</updated>
+  <id>http://www.393837.xyz/</id>
+  
+  <author>
+    <name>Region</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://www.393837.xyz/hello-world/"/>
+    <id>http://www.393837.xyz/hello-world/</id>
+    <published>2024-05-18T13:44:30.182Z</published>
+    <updated>2024-05-18T03:47:09.715Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Butterfly主题如何添加RSS功能</title>
+    <link href="http://www.393837.xyz/RSS/"/>
+    <id>http://www.393837.xyz/RSS/</id>
+    <published>2024-05-04T15:00:00.000Z</published>
+    <updated>2024-05-18T14:23:10.235Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;由于Butterfly这个主题没有自带RSS这个功能，所以就让我来说一下如何添加RSS功能把&lt;/p&gt;
+&lt;h2 id=&quot;插件选择&quot;&gt;&lt;a href=&quot;#插件选择&quot; class=&quot;headerlink&quot; title=&quot;插件选择&quot;&gt;&lt;/a&gt;插件选择&lt;/h2&gt;&lt;p&gt;根据&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="http://www.393837.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Gravatar镜像源(2024最新)</title>
+    <link href="http://www.393837.xyz/Gravatar/"/>
+    <id>http://www.393837.xyz/Gravatar/</id>
+    <published>2024-04-27T14:21:30.000Z</published>
+    <updated>2024-05-18T04:06:15.216Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;众所周知： Gravatar 的官方源国内是基本访问不了的，很多博客是用的一般是v2ex镜像源、七牛云的镜像源或者是极客云。不过目前v2ex和极客云的源挂了，七牛云的源也处在周期性抽风中，基本属于能不能看到图完全看脸的状态。于是整理了一下目前还能用 Gravatar</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="http://www.393837.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>原神4.6前瞻兑换码</title>
+    <link href="http://www.393837.xyz/yuanshen-4.6-keys/"/>
+    <id>http://www.393837.xyz/yuanshen-4.6-keys/</id>
+    <published>2024-04-12T14:35:44.000Z</published>
+    <updated>2024-05-02T07:08:36.285Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1、8F3LR6AQ68JS&quot;&gt;&lt;a href=&quot;#1、8F3LR6AQ68JS&quot; class=&quot;headerlink&quot; title=&quot;1、8F3LR6AQ68JS&quot;&gt;&lt;/a&gt;1、8F3LR6AQ68JS&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="游戏" scheme="http://www.393837.xyz/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决WPS不登录无法编辑</title>
+    <link href="http://www.393837.xyz/Trz7YRgAc/"/>
+    <id>http://www.393837.xyz/Trz7YRgAc/</id>
+    <published>2024-03-29T15:25:26.000Z</published>
+    <updated>2024-05-02T07:08:36.285Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;众所周知&quot;&gt;&lt;a href=&quot;#众所周知&quot; class=&quot;headerlink&quot; title=&quot;众所周知&quot;&gt;&lt;/a&gt;众所周知&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="软件" scheme="http://www.393837.xyz/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bing今日高清图片</title>
+    <link href="http://www.393837.xyz/bing-wallpapers/"/>
+    <id>http://www.393837.xyz/bing-wallpapers/</id>
+    <published>2024-03-09T06:40:53.000Z</published>
+    <updated>2024-05-02T07:08:36.285Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;4K&quot;&gt;&lt;a href=&quot;#4K&quot; class=&quot;headerlink&quot; title=&quot;4K&quot;&gt;&lt;/a&gt;4K&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://bing.ee123.net/img/4K&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;1080P&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="壁纸" scheme="http://www.393837.xyz/tags/%E5%A3%81%E7%BA%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【2024最新可用】操作简单安全的美区AppleID礼品卡购买教程</title>
+    <link href="http://www.393837.xyz/Apple-ID/"/>
+    <id>http://www.393837.xyz/Apple-ID/</id>
+    <published>2024-02-17T11:16:59.000Z</published>
+    <updated>2024-05-02T07:08:36.285Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;封面图来自&lt;a href=&quot;https://zhuanlan.zhihu.com/p/636121931&quot;&gt;【2023年最新】操作简单又安全靠谱的美区AppleID礼品卡购买充值保姆级教程 -</summary>
+        
+      
+    
+    
+    
+    
+    <category term="软件" scheme="http://www.393837.xyz/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Intel AIGC大语言模型</title>
+    <link href="http://www.393837.xyz/intel-aigc/"/>
+    <id>http://www.393837.xyz/intel-aigc/</id>
+    <published>2024-02-11T04:34:39.000Z</published>
+    <updated>2024-05-02T07:08:36.285Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;轻薄本也能玩大语言模型！Arc显卡效率奇高&quot;&gt;&lt;a href=&quot;#轻薄本也能玩大语言模型！Arc显卡效率奇高&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="软件" scheme="http://www.393837.xyz/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的世界国际服全班本下载</title>
+    <link href="http://www.393837.xyz/minecraft/"/>
+    <id>http://www.393837.xyz/minecraft/</id>
+    <published>2024-02-07T01:57:11.000Z</published>
+    <updated>2024-05-02T07:08:36.285Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;我的世界国际服下载&quot;&gt;&lt;a href=&quot;#我的世界国际服下载&quot; class=&quot;headerlink&quot; title=&quot;我的世界国际服下载&quot;&gt;&lt;/a&gt;我的世界国际服下载&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;仅供体验，请支持正版&lt;br&gt;正版购买：&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="软件" scheme="http://www.393837.xyz/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Microsoft365如何开启云母效果</title>
+    <link href="http://www.393837.xyz/Microsoft365-Yunmu/"/>
+    <id>http://www.393837.xyz/Microsoft365-Yunmu/</id>
+    <published>2024-02-05T14:44:33.000Z</published>
+    <updated>2024-05-02T07:08:36.285Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Microsoft365如何开启云母效果&quot;&gt;&lt;a href=&quot;#Microsoft365如何开启云母效果&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="软件" scheme="http://www.393837.xyz/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何播放HEVC格式的视频</title>
+    <link href="http://www.393837.xyz/HEVC-video/"/>
+    <id>http://www.393837.xyz/HEVC-video/</id>
+    <published>2024-02-05T06:04:52.000Z</published>
+    <updated>2024-05-02T07:08:36.285Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;免费获取适用于-Windows-10-的-HEVC-视频扩展&quot;&gt;&lt;a href=&quot;#免费获取适用于-Windows-10-的-HEVC-视频扩展&quot; class=&quot;headerlink&quot; title=&quot;免费获取适用于 Windows 10 的 HEVC</summary>
+        
+      
+    
+    
+    
+    
+    <category term="软件" scheme="http://www.393837.xyz/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Apple新年壁纸</title>
+    <link href="http://www.393837.xyz/apple-wallpaper/"/>
+    <id>http://www.393837.xyz/apple-wallpaper/</id>
+    <published>2024-02-05T03:47:57.000Z</published>
+    <updated>2024-05-02T07:08:36.285Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;下载新春墙纸，神奇新年屏上见&quot;&gt;&lt;a href=&quot;#下载新春墙纸，神奇新年屏上见&quot; class=&quot;headerlink&quot; title=&quot;下载新春墙纸，神奇新年屏上见&quot;&gt;&lt;/a&gt;下载新春墙纸，神奇新年屏上见&lt;/h1&gt;&lt;h2 id=&quot;iPhone&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="壁纸" scheme="http://www.393837.xyz/tags/%E5%A3%81%E7%BA%B8/"/>
+    
+  </entry>
+  
+</feed>
