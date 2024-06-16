@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Region-Blog</title>
-  <icon>http://blog.393837.xyz/icon.png</icon>
+  <icon>http://blog.393837.xyz/img/favicon.ico</icon>
   
   <link href="http://blog.393837.xyz/atom.xml" rel="self"/>
   
