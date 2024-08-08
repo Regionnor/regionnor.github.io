@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Chrome浏览器开启多线程下载，让你的下载速度提升10倍+</title>
+      <link href="/2024/08/08/chrome-parallel-download/"/>
+      <url>/2024/08/08/chrome-parallel-download/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>Chrome 下载默认是单线程的，但可以改成多线程，从而大幅加快下载速度。</p><h1 id="你知道谷歌也支持多线程下载吗？"><a href="#你知道谷歌也支持多线程下载吗？" class="headerlink" title="你知道谷歌也支持多线程下载吗？"></a>你知道谷歌也支持多线程下载吗？</h1><p>有趣的是其实谷歌浏览器在很早的时候也就支持多线程下载，只是直到现在为止多线程下载依然是个实验性选项。<br>也就是默认情况下谷歌浏览器默认的下载工具工具并不会启用多线程下载技术，所以用户下载感觉还是比较慢的</p><h1 id="开启多线程下载方法"><a href="#开启多线程下载方法" class="headerlink" title="开启多线程下载方法"></a>开启多线程下载方法</h1><p>chrome浏览器打开<a href="chrome://flags/#enable-parallel-downloading">chrome:&#x2F;&#x2F;flags&#x2F;#enable-parallel-downloading</a>,将其中的 Default 修改为 Enabled。<br><img src="https://jsd.012700.xyz/gh/Regionnor/CDN@main/img/PixPin_2024-08-08_18-49-51.avif" alt="PixPin_2024-08-08_18-49-51.avif"></p><p>这里Chrome 里给出的官方描述是：</p><blockquote><p>Enable parallel downloading to accelerate download speed. – Mac, Windows, Linux, ChromeOS, Android, Fuchsia, Lacros</p><p>启用并行下载以加快下载速度。– Mac、Windows、Linux、ChromeOS、Android、Fuchsia、Lacros</p></blockquote><h1 id="下载速度提升10倍"><a href="#下载速度提升10倍" class="headerlink" title="下载速度提升10倍+"></a>下载速度提升10倍+</h1><p>开启谷歌浏览器的多线程下载技术后 , 下载速度提升10倍应该是很轻松的，10倍+的速度也能达成。<br>下载速度主要取决于这几个因素：用户网络的宽带、对方服务器的出口带宽、经过各种链路链接会产生负面影响。</p><blockquote><p>参考地址：</p><p><a href="https://www.bilibili.com/read/cv12208485/">https://www.bilibili.com/read/cv12208485/</a></p><p><a href="https://www.landiannews.com/archives/68808.html">https://www.landiannews.com/archives/68808.html</a></p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>绝区零1.1版本前瞻特别节目——卧底蓝调</title>
       <link href="/2024/08/03/zzz1.1keys/"/>
       <url>/2024/08/03/zzz1.1keys/</url>
