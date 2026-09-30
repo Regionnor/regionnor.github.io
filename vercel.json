@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/bszproxy/(.*)","destination":"https://bsz.dusays.com:9001/$1"}]}
